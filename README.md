@@ -3,7 +3,7 @@
 A curated collection of helpful **Windows Batch (.bat)** scripts for system automation, development workflows, and everyday tasks. Whether you're a sysadmin, power user, or just enjoy scripting — this repo provides reusable tools to boost productivity.
 
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
-![License](https://img.shields.io/badge/license-MIT-green)
+![License](https://img.shields.io/badge/license-Apache--2.0-blue)
 ![Language](https://img.shields.io/badge/language-Batch-blue)
 
 ---
